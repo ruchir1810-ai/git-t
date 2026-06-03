@@ -1,9 +1,5 @@
-public class HelloWorld {
-    
-    // Your program begins with a call to main()
-    public static void main(String[] args)
-    {
-        // Prints "Hello, World" to the terminal window.
-        System.out.println("Hello Jenkins Build 16");
+class helloworld {
+    public static void main(String[] args) {
+        System.out.println("Hello Jenkins CI");
     }
 }
